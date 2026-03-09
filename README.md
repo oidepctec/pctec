@@ -13,9 +13,7 @@ You are welcome to use the source code as a reference for writing your own code.
 
 
 ## 部員へ
-Issues読んでね
-
-https://github.com/oidepctec/pctec/issues/1
+[**ここをクリックして、Issues読んでね**](https://github.com/oidepctec/pctec/issues/1)
 
 
 
