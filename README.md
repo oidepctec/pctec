@@ -5,14 +5,14 @@ Hello there. Hi, we're the PC Tech Department. This website was created without 
 
 
 
-## データのダウンロードについて
+## データのダウンロードについて｜Notice Regarding Data Download
 ソースコードの書き方を参考にしていただく分には構いませんが、使われている部員の活動の様子の写真に関しては、個人の著作物や顔などの個人情報がありますので、ダウンロードはお控えください。
 
 You are welcome to use the source code as a reference for writing your own code. However, please refrain from downloading the photos depicting the activities of our members, as they contain personal copyrighted material and personal information such as faces.
 
 
 
-## 部員へ
+## 部員・在校生へ｜To Club Members/Current Students
 
 ↓これ読んでね↓
 
