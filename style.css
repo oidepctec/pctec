@@ -154,7 +154,7 @@ body {
   text-decoration: none;
   font-family: "Zen Kaku Gothic New";
   font-weight: 500;		/* フォントの太さ指定　ここでは500なのでMedium */
-  font-size: 18px;
+  font-size: 20px;
   transition: background-color 0.3s ease, color 0.3s ease; /* ホバーした時のアニメーション！アニメーションって...ンフーンフフフフフ */
 }
 
