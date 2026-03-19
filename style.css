@@ -98,7 +98,7 @@ html * {
 /*ここからが本番*/
 
 body {
-  font-family: sans-serif;  
+  font-family: "Zen Kaku Gothic New", "Yu Gothic", "Noto Sans JP", "Hiragino Kaku Gothic ProN", "Hiragino Sans", "Meiryo", sans-serif; 
   
 	margin:  0 0 0 0;
 	color: #fff;
@@ -160,7 +160,8 @@ body {
 .side_menu a:hover {
   color: #000;
   background-color: #fff;
-  font-family: "Zen Kaku Gothic New Black";
+  font-family: "Zen Kaku Gothic New";
+  font-weight: 900;		/* フォントの太さ指定　ここでは900なのでBlack*/
   font-size: 22px;
 }
 
