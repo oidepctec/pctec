@@ -346,6 +346,10 @@ footer{
     letter-spacing: 0;          /* 文字間は標準に */
   }
 
+  li {
+	font-size: 16px;
+  }
+	
   /* 画像（横並び → 縦並び） */
   .flex-box {
     flex-direction: column;     /* 縦並び */
