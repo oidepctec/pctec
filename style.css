@@ -240,7 +240,6 @@ h2{
     font-size: 28px;
     font-weight: 900;
 	font-style: italic;
-    letter-spacing: 2px;
     border-left: #fff solid 1px;
 	border-bottom: #fff solid 1px;
     padding-left: 5px;
@@ -321,6 +320,10 @@ footer{
 	max-width: 1300px;		/* 最大表示幅（変えなくてよい） */
 }
 
+/* h1～h6の基本フォント。ZenOldMinchoが表示できない場合は、Yu MinchoやHiragino Minchoなどから表示できるフォントに置き換える。*/
+h1, h2, h3, h4, h5, h6 {
+  font-family: "Zen Old Mincho", "Yu Mincho", "Hiragino Mincho ProN", "MS Mincho", serif;
+}
 
 @media (max-width: 600px) {
   
