@@ -99,7 +99,7 @@ html * {
 /*ここから先が本番*/
 
 body {
-  font-family: sans-serif;  
+  font-family: "Noto Sans JP", "Hiragino Kaku Gothic ProN", "Hiragino Sans", "Yu Gothic", "Meiryo", sans-serif;
   
 	margin:  0 0 0 0;
 	color: #fff;
@@ -151,7 +151,8 @@ body {
 .side_menu a {
   color: white;
   text-decoration: none;
-  font-family: "Zen Kaku Gothic New Medium";
+  font-family: "Zen Kaku Gothic New";
+  font-weight: 500;		/* フォントの太さ指定　ここでは500なのでMedium */
   font-size: 20px;
   transition: background-color 0.3s ease, color 0.3s ease; /* ホバーした時のアニメーション！アニメーションって...ンフーンフフフフフ */
 }
@@ -159,7 +160,8 @@ body {
 .side_menu a:hover {
   color: #000;
   background-color: #fff;
-  font-family: "Zen Kaku Gothic New Black";
+  font-family: "Zen Kaku Gothic New";
+  font-weight: 900;		/* フォントの太さ指定　ここでは900なのでBlack */
   font-size: 24px;
 }
 
@@ -176,7 +178,8 @@ body {
 }
 
 .header h1 {
-  font-family: "Zen Kaku Gothic New Black";
+  font-family: "Zen Kaku Gothic New";
+  font-weight: 900;		/* フォントの太さ指定　ここでは900なのでBlack */
   font-weight: bold;
   font-size: 38px;
   margin: 0 0 0 0;
