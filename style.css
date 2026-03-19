@@ -230,7 +230,8 @@ p {
 }
 
 li {
-  font-family: "Zen Kaku Gothic New";
+  font-family: "Zen Kaku Gothic New";		/* 活動班についてのリストのやつ */
+  font-size: 20px;
 }
 
 h6{
