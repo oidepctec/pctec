@@ -322,7 +322,7 @@ footer{
 
 /* h1～h6の基本フォント。ZenOldMinchoが表示できない場合は、Yu MinchoやHiragino Minchoなどから表示できるフォントに置き換える。*/
 h1, h2, h3, h4, h5, h6 {
-  font-family: "Zen Old Mincho", "Yu Mincho", "Hiragino Mincho ProN", "MS Mincho", serif;
+  font-family: "Zen Kaku Gothic New", "Yu Gothic", "Noto Sans JP", "Hiragino Kaku Gothic ProN", "Hiragino Sans", "Meiryo", sans-serif; 
 }
 
 /* スマホ用スタイル */
