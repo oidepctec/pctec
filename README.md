@@ -6,7 +6,7 @@
 
 
 
-おはこんばんちわございません、パソコン技術部です。このWebサイトは、元部員（@Koutarou4096）が勝手に作った自己満Webサイトです（現在は引退済み）。せっかく作ったのでどうにかネット上に公開できないものかと色々考えてたら、GitHub上に公開できることを知り、公開して今に至ります。なお、このサイトは"noindex"にしてあるので、おそらくGoogle検索などでこのサイトが出てくることはないと思います。しらんけど。
+こんにちは、パソコン技術部です。このWebサイトは、元部員（@Koutarou4096）が勝手に作った自己満Webサイトです（現在は引退済み）。せっかく作ったのでどうにかネット上に公開できないものかと色々考えてたら、GitHub上に公開できることを知り、公開して今に至ります。なお、このサイトは"noindex"にしてあるので、おそらくGoogle検索などでこのサイトが出てくることはないと思います。しらんけど。
 
 Hello there. Hi, we're the PC Tech Department. This website was created without authorization by a former member (@Koutarou4096) (now retired). Since I went to the trouble of making it, I wondered if there was any way to publish it online. After looking into it, I found out I could publish it on GitHub, so I did, and here we are. Note that this site is set to “noindex,” so it probably won't show up in Google searches or the like. 
 
