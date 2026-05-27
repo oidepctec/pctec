@@ -105,6 +105,13 @@ body {
   background: linear-gradient(33deg, #02245b, #109fc3);
 }
 
+
+/* ページ内の文字をマウスで選択したときの色を変える */
+::selection {
+  background-color: #e6ff00;
+  color: #02245b; 
+}
+
 /* ページ左上の「☰」の設定 */
 .menu_button {
   position: fixed;
