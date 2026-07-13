@@ -118,7 +118,7 @@ body {
   top: 16px;
   left: 16px;
   z-index: 1001;
-  background-color: #02245b;
+  background-color: #02245b24;
   color: #fff;
   font-family: sans-serif;
   font-size: 32px;
@@ -126,6 +126,7 @@ body {
   padding: 8px 12px;
   cursor: pointer;
   border-radius: 4px;
+  border-right: #fff solid 1px;
 }
 .menu_button:hover{
 	background-color: #999;
