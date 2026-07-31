@@ -1,6 +1,6 @@
 @charset "UTF-8";
-  
-  /* 基本設定 */
+
+/* 基本設定 */
 html {
 	font-family: sans-serif;
 	height: 100%;
@@ -53,14 +53,6 @@ html * {
 .biz-udpgothic-bold {
   font-family: "BIZ UDPGothic", sans-serif;
   font-weight: 700;
-  font-style: normal;
-}
-
-
-.noto-sans-jp-<uniquifier> {
-  font-family: "Noto Sans JP", sans-serif;
-  font-optical-sizing: auto;
-  font-weight: <weight>;
   font-style: normal;
 }
 
@@ -226,11 +218,11 @@ a:hover {
 }
 /* リンク踏んだ後 */
 a:visited {
-	color #00ff00;
+	color: #00ff00;
 }
 
 p,h1,h2,h3,h4,h5,h6 {
-	margin-top: 10;
+	margin-top: 10px;
 }
   
 p {
@@ -338,7 +330,7 @@ h1, h2, h3, h4, h5, h6 {
 @media (max-width: 600px) {
   
   h2 {
-	  font-size: 20px
+	  font-size: 20px;
   }
 
   /* 本文の文字も少し詰める */
@@ -357,3 +349,14 @@ h1, h2, h3, h4, h5, h6 {
     flex-direction: column;     /* 縦並び */
     gap: 8px;                   /* 余白を小さく */
   }
+
+  /* .sologoもスマホ幅では回り込み解除 */
+  .sologo {
+    max-width: 100%;
+    float: none;
+    display: block;
+    margin: 0 auto;
+    padding: 0 0 1em 0;
+  }
+
+}
