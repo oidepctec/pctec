@@ -1,4 +1,4 @@
-## 飯田OIDE長姫高等学校 パソコン技術部 公式サイト | Iida OIDE Osahime Highschool PC TECH Club's Official Website ver.2025
+## 飯田OIDE長姫高等学校 パソコン技術部 WEBサイト | Iida OIDE Osahime Highschool PC TECH Club's Official Website ver.2025
 
 ※The contents of this repository are not licensed for reuse.
 
