@@ -374,6 +374,19 @@ h1, h2, h3, h4, h5, h6 {
     margin: 0 auto;             /* 中央寄せ */
     padding: 0;                 /* 余白を詰める */
   }
+  .logo{
+    float: right;
+	max-width: 30%;
+	height: auto;
+	padding: 0 0 0 1em;		/* 文字と画像との余白 */
+  }
+  
+  .pspr{
+  float: right;
+  max-width: 30%;
+  height: auto;
+  padding: 0 1em 1em 0;		/* 文字と画像との余白 */
+}
 
 }
 
