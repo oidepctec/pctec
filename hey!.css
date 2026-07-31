@@ -1,6 +1,6 @@
 @charset "UTF-8";
-  
-  /* 基本設定 */
+
+/* 基本設定 */
 html {
 	font-family: sans-serif;
 	height: 100%;
@@ -57,14 +57,6 @@ html * {
   font-style: normal;
 }
 
-
-.noto-sans-jp-<uniquifier> {
-  font-family: "Noto Sans JP", sans-serif;
-  font-optical-sizing: auto;
-  font-weight: <weight>;
-  font-style: normal;
-}
-
 .zen-old-mincho-regular {
   font-family: "Zen Old Mincho", serif;
   font-weight: 400;
@@ -100,12 +92,12 @@ html * {
 /*ここから先が本番*/
 
 body {
-	font-family: "Zen Kaku Gothic New", "Yu Gothic", "Noto Sans JP", "Hiragino Kaku Gothic ProN", "Hiragino Sans", "Meiryo", sans-serif; 
-	margin:  0 0 0 0;
-	color: #fff;
-	background: linear-gradient(33deg, #02245b, #109fc3);
-	min-height: 100vh;
-	background-attachment: fixed;
+  font-family: "Zen Kaku Gothic New", "Yu Gothic", "Noto Sans JP", "Hiragino Kaku Gothic ProN", "Hiragino Sans", "Meiryo", sans-serif; 
+  margin:  0 0 0 0;
+  color: #fff;
+  background: linear-gradient(33deg, #02245b, #109fc3);
+  min-height: 100vh;
+  background-attachment: fixed;
 }
 
 /* ページ内の文字をマウスで選択したときの色を変える */
@@ -198,7 +190,7 @@ body {
 
 
 p,h1,h2,h3,h4,h5,h6 {
-	margin-top: 10;
+	margin-top: 10px;
 }
   
 p {
@@ -374,41 +366,15 @@ h1, h2, h3, h4, h5, h6 {
     margin: 0 auto;             /* 中央寄せ */
     padding: 0;                 /* 余白を詰める */
   }
-  .logo{
-    float: right;
-	max-width: 30%;
-	height: auto;
-	padding: 0 0 0 1em;		/* 文字と画像との余白 */
+
+  /* .logoと.psprもスマホ幅では回り込み解除 */
+  .logo,
+  .pspr {
+    max-width: 100%;
+    float: none;
+    display: block;
+    margin: 0 auto;
+    padding: 0 0 1em 0;
   }
-  
-  .pspr{
-  float: right;
-  max-width: 30%;
-  height: auto;
-  padding: 0 1em 1em 0;		/* 文字と画像との余白 */
-}
 
 }
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
