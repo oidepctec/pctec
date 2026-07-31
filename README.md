@@ -12,7 +12,7 @@ Hello there. Hi, we're the PC Tech Department. This website was created without 
 
 
 
-## ◆データのダウンロードについて｜Notice Regarding Data Download
+## データのダウンロードについて｜Notice Regarding Data Download
 本リポジトリに掲載されているソースコードおよび画像・資料などのすべてのデータは、閲覧のみを目的として公開しています。
 
 これらのデータのダウンロード、保存、転載、再配布、改変、二次利用等の行為は一切禁止します。
@@ -25,7 +25,7 @@ All source code, images, and other materials in this repository are published fo
 Please do not use any content from this repository for purposes other than viewing.
 
 
-## ◆部員・在校生へ｜To Club Members/Current Students
+## 部員・在校生へ｜To Club Members/Current Students
 
 ↓これ読んでね↓
 
