@@ -167,6 +167,20 @@ body {
   font-size: 24px;
 }
 
+/* ハイパーリンク */
+a {
+	font-family: "Zen Kaku Gothic New";
+	color: #00ffff;
+}
+/* マウスでホバーしてるとき */
+a:hover {
+	color: #00ff66;
+}
+/* リンク踏んだ後 */
+a:visited {
+	color: #00ff00;
+}
+
 .side_menu.open {
   left: 0;
 }
