@@ -125,6 +125,7 @@ body {
 }
 .menu_button:hover{
 	background-color: #999;
+  	transition: background-color 0.2s ease;
 }
 
 .side_menu{
