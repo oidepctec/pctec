@@ -153,7 +153,6 @@ body {
 .side_menu a {
   color: white;
   text-decoration: none;
-  font-family: "Zen Kaku Gothic New";
   font-weight: 500;		/* フォントの太さ指定　ここでは500なのでMedium */
   font-size: 20px;
   transition: background-color 0.3s ease, color 0.3s ease; /* ホバーした時のアニメーション！アニメーションって...ンフーンフフフフフ */
@@ -162,14 +161,12 @@ body {
 .side_menu a:hover {
   color: #000;
   background-color: #fff;
-  font-family: "Zen Kaku Gothic New";
   font-weight: 900;		/* フォントの太さ指定　ここでは900なのでBlack */
   font-size: 24px;
 }
 
 /* ハイパーリンク */
 a {
-	font-family: "Zen Kaku Gothic New";
 	color: #00ffff;
 }
 /* マウスでホバーしてるとき */
@@ -185,24 +182,6 @@ a:visited {
   left: 0;
 }
 
-.header {
-  width: auto;
-  height: 200px;
-  color: white;
-  padding: 40px 0; /* 少し大きめに */
-}
-
-.header h1 {
-  font-family: "Zen Kaku Gothic New";
-  font-weight: 100;		/* フォントの太さ指定　ここでは900なのでBlack */
-  font-size: 38px;
-  margin: 0 0 0 0;
-  padding-top: 30px;
-  color: white;
-  letter-spacing: 3px;
-}
-
-
 p,h1,h2,h3,h4,h5,h6 {
 	margin-top: 10px;
 }
@@ -210,7 +189,6 @@ p,h1,h2,h3,h4,h5,h6 {
 p {
   line-height: 1.6;
   font-size: 20px;
-  font-family: "Zen Kaku Gothic New";
   font-weight: 400;		/* フォントの太さ指定　ここでは400なのでRegular */
   font-style: normal;
   
@@ -224,7 +202,6 @@ p {
 }
 
 .sakuhin{
-    font-family: "Zen Kaku Gothic New";
     color: #000;
     font-weight: bold;
 	  width: 50%;
@@ -270,9 +247,33 @@ p {
   cursor: pointer;
 }
 
-/* 「作品例」のところ */
-h6{
-    font-family: "Zen Kaku Gothic New";
+h1{
+  font-size: 30px;
+  color: #fff;
+  margin-left: 0;
+  font-weight: 900;
+  padding-left: 10px;
+  letter-spacing: 2px;
+}
+
+.header {
+  width: auto;
+  height: 200px;
+  color: white;
+  padding: 40px 0; /* 少し大きめに */
+}
+
+.header h1 {
+  font-weight: 100;		/* フォントの太さ指定　ここでは100なのでExtraLight */
+  font-size: 38px;
+  margin: 0 0 0 0;
+  padding-top: 30px;
+  color: white;
+  letter-spacing: 3px;
+}
+
+/* 「活動の様子」など */
+h2{
     font-size: 28px;
     font-weight: 100;
     border-left: #fff solid 1px;
@@ -281,9 +282,8 @@ h6{
 	padding-top: 40px;
 }
 
-/* 「活動の様子」など */
-h2{
-    font-family: "Zen Kaku Gothic New";
+/* 「作品例」のところ */
+h6{
     font-size: 28px;
     font-weight: 100;
     border-left: #fff solid 1px;
@@ -300,21 +300,8 @@ h2{
   display: flex;
 }
 
-h1{
-  font-size: 30px;
-  color: #fff;
-  margin-left: 0;
-  font-family:"Zen Kaku Gothic New";
-  font-weight: 900;
-  padding-left: 10px;
-  
-  letter-spacing: 2px;
-  
-}
-
 footer{
   font-size: 18px;
-  font-family: "Zen Kaku Gothic New";
 }
 
 
@@ -335,7 +322,7 @@ footer{
 
 }
 
-/* h1～h6の基本フォント。ZenOldMinchoが表示できない場合は、Yu MinchoやHiragino Minchoなどから表示できるフォントに置き換える。*/
+/* h1～h6の基本フォント。ZenKakuGothicNewが表示できない場合は、游ゴシックやヒラギノ角ゴなどから表示できるフォントに置き換える。*/
 h1, h2, h3, h4, h5, h6 {
   font-family: "Zen Kaku Gothic New", "Yu Gothic", "Noto Sans JP", "Hiragino Kaku Gothic ProN", "Hiragino Sans", "Meiryo", sans-serif; 
 }
