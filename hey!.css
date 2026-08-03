@@ -121,6 +121,7 @@ body {
   cursor: pointer;
   border-radius: 4px;
   border-right: #fff solid 1px;
+  transition: background-color 0.2s ease;
 }
 .menu_button:hover{
 	background-color: #999;
