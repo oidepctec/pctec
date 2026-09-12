@@ -1,12 +1,11 @@
 ## 飯田OIDE長姫高等学校 パソコン技術部 WEBサイト | Iida OIDE Osahime Highschool PC TECH Club's Official Website ver.2025
 
-※The contents of this repository are not licensed for reuse.
 
 [<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/8f514359-7d88-4e6c-b30c-d43137512951" />](https://oidepctec.github.io/pctec/)
 
 
 
-こんにちは、パソコン技術部です。このWebサイトは、元部員（@Koutarou4096）が勝手に作った自己満Webサイトです（現在は引退済み）。せっかく作ったのでどうにかネット上に公開できないものかと色々考えてたら、GitHub上に公開できることを知り、公開して今に至ります。なお、このサイトは"noindex"にしてあるので、おそらくGoogle検索などでこのサイトが出てくることはないと思います。しらんけど。
+こんにちは、飯田OIDE長姫高等学校・パソコン技術部です。このWebサイトは、元部員（@Koutarou4096）が勝手に作った自己満Webサイトです（現在は引退済み）。せっかく作ったのでどうにかネット上に公開できないものかと色々考えてたら、GitHub上に公開できることを知り、公開して今に至ります。なお、このサイトは"noindex"にしてあるので、おそらくGoogle検索などでこのサイトが出てくることはないと思います。しらんけど。
 
 Hello there. Hi, we're the PC Tech Department. This website was created without authorization by a former member (@Koutarou4096) (now retired). Since I went to the trouble of making it, I wondered if there was any way to publish it online. After looking into it, I found out I could publish it on GitHub, so I did, and here we are. Note that this site is set to “noindex,” so it probably won't show up in Google searches or the like. 
 
@@ -33,6 +32,4 @@ Please do not use any content from this repository for purposes other than viewi
 
 
 
-Copyright© 2025 飯田OIDE長姫高校パソコン技術部 & @Koutarou4096. All rights reserved.
-
-Translated from Japanese to English using DeepL.com.
+Copyright© 2025 飯田OIDE長姫高校パソコン技術部 All rights reserved.
