@@ -90,7 +90,7 @@ html * {
 /* もじワク研究のフォントも読み込む */
 @font-face {
   font-family: 'Makinas-4-Square'; /* 任意のフォント名 */
-  src: url('../fonts/Makinas-4-Square.otf')
+  src: url('./Makinas-4-Square.otf');
   font-weight: normal;
   font-style: normal;
 }
@@ -185,7 +185,6 @@ a:hover {
 /* リンク踏んだ後 */
 a:visited {
 	color: #00ff00;
-}
 
 .side_menu.open {
   left: 0;
@@ -263,7 +262,7 @@ h1{
   font-weight: 900;
   padding-left: 10px;
   letter-spacing: 2px;
-  font-family: Makinas-4-Square;
+  font-family: 'Makinas-4-Square';
 }
 
 .header {
