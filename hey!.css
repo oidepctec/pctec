@@ -87,15 +87,6 @@ html * {
   font-style: normal;
 }
 
-/* もじワク研究のフォントも読み込む */
-@font-face {
-  font-family: 'Makinas-4-Square';
-  /* 任意のフォント名 */
-  src: url('./Makinas-4-Square.otf');
-  font-weight: normal;
-  font-style: normal;
-}
-
 /* ここまでがフォントの呼び出しコード */
 
 /*ここから先が本番*/
@@ -281,7 +272,6 @@ a:visited {
     font-weight: 900;
     padding-left: 10px;
     letter-spacing: 2px;
-    font-family: 'Makinas-4-Square';
   }
 
   .header {
