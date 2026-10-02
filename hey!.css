@@ -88,6 +88,14 @@ html * {
 }
 /* ここまでがフォントの呼び出しコード */
 
+@font-face {
+  font-family: 'Makinas-4-Square'; /* 任意のフォント名 */
+  src: url('../fonts/Makinas-4-Square.woff2') format('woff2'),
+       url('../fonts/Makinas-4-Square.woff') format('woff');
+  font-weight: normal;
+  font-style: normal;
+}
+
 
 /*ここから先が本番*/
 
@@ -272,6 +280,7 @@ h1{
   padding-top: 30px;
   color: white;
   letter-spacing: 3px;
+  font-family: 'Makinas-4-Square';
 }
 
 /* 「活動の様子」など */
