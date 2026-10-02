@@ -86,16 +86,15 @@ html * {
   font-weight: 900;
   font-style: normal;
 }
-/* ここまでがフォントの呼び出しコード */
 
+/* もじワク研究のフォントも読み込む */
 @font-face {
   font-family: 'Makinas-4-Square'; /* 任意のフォント名 */
-  src: url('../fonts/Makinas-4-Square.woff2') format('woff2'),
-       url('../fonts/Makinas-4-Square.woff') format('woff');
+  src: url('../fonts/Makinas-4-Square.otf')
   font-weight: normal;
   font-style: normal;
 }
-
+/* ここまでがフォントの呼び出しコード */
 
 /*ここから先が本番*/
 
@@ -264,6 +263,7 @@ h1{
   font-weight: 900;
   padding-left: 10px;
   letter-spacing: 2px;
+  font-family: Makinas-4-Square;
 }
 
 .header {
@@ -333,8 +333,8 @@ footer{
 
 }
 
-/* h1～h6の基本フォント。ZenKakuGothicNewが表示できない場合は、游ゴシックやヒラギノ角ゴなどから表示できるフォントに置き換える。*/
-h1, h2, h3, h4, h5, h6 {
+/* h2～h6の基本フォント。ZenKakuGothicNewが表示できない場合は、游ゴシックやヒラギノ角ゴなどから表示できるフォントに置き換える。*/
+h2, h3, h4, h5, h6 {
   font-family: "Zen Kaku Gothic New", "Yu Gothic", "Noto Sans JP", "Hiragino Kaku Gothic ProN", "Hiragino Sans", "Meiryo", sans-serif; 
 }
 
