@@ -318,9 +318,9 @@ footer{
 	max-width: 1300px;		/* 最大表示幅（変えなくてよい） */
 }
 
-/* h1～h6の基本フォント。ZenKakuGothicNewが表示できない場合は、游ゴシックやヒラギノ角ゴなどから表示できるフォントに置き換える。*/
+/* h1～h6の基本フォント。Makinas-4-Square二変更 */
 h1, h2, h3, h4, h5, h6 {
-  font-family: "Zen Kaku Gothic New", "Yu Gothic", "Noto Sans JP", "Hiragino Kaku Gothic ProN", "Hiragino Sans", "Meiryo", sans-serif; 
+  font-family: 'Makinas-4-Square', sans-serif;
 }
 
 @media (max-width: 600px) {
