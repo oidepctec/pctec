@@ -2,7 +2,7 @@
 
 [<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/8f514359-7d88-4e6c-b30c-d43137512951" />](https://oidepctec.github.io/pctec/)
 
-こんにちは、飯田OIDE長姫高等学校・パソコン技術部です。このWEBサイトは、元部員（[@Koutarou4096](https://github.com/Koutarou4096/)）が勝手に作ったWEBサイトです（現在は引退済み）。せっかく作ったのでどうにかネット上に公開できないものかと色々考えていたところ、GitHub上に公開できることを知り、公開して今に至ります。なお、このサイトはAIの助言により"noindex"にしてあるので、おそらくGoogle検索などでこのサイトが出てくることはないと思います。しらんけど。
+こんにちは、飯田OIDE長姫高等学校・パソコン技術部です。このWEBサイトは、部員OB（[@Koutarou4096](https://github.com/Koutarou4096/)）が勝手に制作したWEBサイトです。せっかく作ったのでどうにかネット上に公開できないものかと色々考えていたところ、GitHub上に公開できることを知り、公開して今に至ります。なお、このサイトはAIの助言により"noindex"にしてあるので、おそらくGoogle検索などでこのサイトが出てくることはないと思います。しらんけど。
 
 
 ## データのダウンロードについて
