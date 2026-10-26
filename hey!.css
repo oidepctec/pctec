@@ -4,6 +4,7 @@
 html {
   font-family: sans-serif;
   height: 100%;
+  animation: fadein 1s forwards;
 }
 
 html * {
@@ -432,4 +433,13 @@ h6 {
     padding: 0 0 1em 0;
   }
 
+}
+
+@keyframes fadein {
+  0% {
+    opacity: 0;
+  }
+  100% {
+    opacity: 1;
+  }
 }
