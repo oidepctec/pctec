@@ -17,7 +17,7 @@
 - CSS
 - JavaScript
 
-ReactとかNext.jsとかいう~~小難しい~~技術は使用していません。従来のHTML,CSS,JSで制作しました。
+ReactとかNext.jsなどの技術は使用していません。従来のHTML,CSS,JSで制作しました。
 
 ## 使用ソフト
 - Visual Studio Code
